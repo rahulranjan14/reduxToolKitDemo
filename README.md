@@ -27,6 +27,12 @@ To explore this project:
 
 If you're eager to explore Redux further or enhance your skills, consider adding new features to this project. One such idea is to implement a "Save for Later" section, where users can move items to "Save for Later" section and further remove items from there. You can refer to the existing "wishlist" and "cart" modules to build this section, leveraging similar functionality and patterns. This hands-on approach offers an opportunity for practical learning and a deeper understanding of Redux concepts in action.
 
+## Project Comparison
+
+This repository includes a similar project implemented using Recoil. You can find the Recoil version [here](https://github.com/rahulranjan14/recoilDemo).
+
+Comparing both implementations can help you understand the differences and benefits of each approach.
+
 ## Contributing
 
 While contributions are not actively solicited for this project, feel free to experiment with extending its functionality on your own. If you have any suggestions or feedback, please don't hesitate to reach out.
