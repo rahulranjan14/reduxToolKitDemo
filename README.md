@@ -29,9 +29,13 @@ If you're eager to explore Redux further or enhance your skills, consider adding
 
 ## Project Comparison
 
-This repository includes a similar project implemented using Recoil. You can find the Recoil version [here](https://github.com/rahulranjan14/recoilDemo).
+This same project with same functionalities are implemented using other state management libraries:
 
-Comparing both implementations can help you understand the differences and benefits of each approach.
+- [Recoil Version](https://github.com/rahulranjan14/recoilDemo)
+- [Zustand Version](https://github.com/rahulranjan14/zustandDemo)
+
+Comparing all three implementations can help in understand the differences and benefits of each approach.
+
 
 ## Contributing
 
